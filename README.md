@@ -1,6 +1,6 @@
 # Introduction
-Thanks for this projects：
-[link]https://github.com/Qidian213/deep_sort_yolov3
+Thanks for this projects：  
+https://github.com/Qidian213/deep_sort_yolov3
 # deep_sort_yolov3
 In this demo, I has made some changes in the "nn_matching" file.
 1、adjust_cosine distance
